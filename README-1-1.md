@@ -1,2 +1,0 @@
-# Pokedex
-Diseño de Pokedex
